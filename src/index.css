@@ -136,7 +136,7 @@ a:hover {
   margin-top: 10vh;
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.1);
-  box-shadow: 10px 10px 25px 5px #333;
+  box-shadow: 10px 10px 25px 5px #111;
   animation: fadeIn 4s ease-out;
 }
 
@@ -188,9 +188,11 @@ section {
     margin-right: 1rem;
   }
   header,
-  section,
-  .nav {
+  section {
     margin-left: 2rem;
+  }
+  .nav {
+    padding-left: 2rem;
   }
   .nav .nav-links {
     display: none;
