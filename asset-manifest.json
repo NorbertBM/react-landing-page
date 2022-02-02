@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.415b2da7.css",
+    "main.js": "/static/js/main.308e02f9.js",
+    "static/media/menyhartMediaLogo.png": "/static/media/menyhartMediaLogo.74de1a70b31f498d7df2.png",
+    "index.html": "/index.html",
+    "main.415b2da7.css.map": "/static/css/main.415b2da7.css.map",
+    "main.308e02f9.js.map": "/static/js/main.308e02f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.415b2da7.css",
+    "static/js/main.308e02f9.js"
+  ]
+}
