@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-landing-page/static/css/main.415b2da7.css",
-    "main.js": "/react-landing-page/static/js/main.5b1846b1.js",
-    "static/media/menyhartMediaLogo.png": "/react-landing-page/static/media/menyhartMediaLogo.74de1a70b31f498d7df2.png",
-    "index.html": "/react-landing-page/index.html",
-    "main.415b2da7.css.map": "/react-landing-page/static/css/main.415b2da7.css.map",
-    "main.5b1846b1.js.map": "/react-landing-page/static/js/main.5b1846b1.js.map"
+    "main.css": "/react-landing-page.github.io/static/css/main.415b2da7.css",
+    "main.js": "/react-landing-page.github.io/static/js/main.736dc074.js",
+    "static/media/menyhartMediaLogo.png": "/react-landing-page.github.io/static/media/menyhartMediaLogo.74de1a70b31f498d7df2.png",
+    "index.html": "/react-landing-page.github.io/index.html",
+    "main.415b2da7.css.map": "/react-landing-page.github.io/static/css/main.415b2da7.css.map",
+    "main.736dc074.js.map": "/react-landing-page.github.io/static/js/main.736dc074.js.map"
   },
   "entrypoints": [
     "static/css/main.415b2da7.css",
-    "static/js/main.5b1846b1.js"
+    "static/js/main.736dc074.js"
   ]
 }
