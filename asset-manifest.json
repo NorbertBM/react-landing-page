@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.415b2da7.css",
-    "main.js": "/static/js/main.308e02f9.js",
-    "static/media/menyhartMediaLogo.png": "/static/media/menyhartMediaLogo.74de1a70b31f498d7df2.png",
-    "index.html": "/index.html",
-    "main.415b2da7.css.map": "/static/css/main.415b2da7.css.map",
-    "main.308e02f9.js.map": "/static/js/main.308e02f9.js.map"
+    "main.css": "/react-landing-page/static/css/main.415b2da7.css",
+    "main.js": "/react-landing-page/static/js/main.5b1846b1.js",
+    "static/media/menyhartMediaLogo.png": "/react-landing-page/static/media/menyhartMediaLogo.74de1a70b31f498d7df2.png",
+    "index.html": "/react-landing-page/index.html",
+    "main.415b2da7.css.map": "/react-landing-page/static/css/main.415b2da7.css.map",
+    "main.5b1846b1.js.map": "/react-landing-page/static/js/main.5b1846b1.js.map"
   },
   "entrypoints": [
     "static/css/main.415b2da7.css",
-    "static/js/main.308e02f9.js"
+    "static/js/main.5b1846b1.js"
   ]
 }
